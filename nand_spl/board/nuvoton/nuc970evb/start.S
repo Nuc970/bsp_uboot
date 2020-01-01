@@ -1,0 +1,1 @@
+/home/book/NUC970_BSP/uboot/nand_spl/board/nuvoton/nuc970evb/start_nand_spl.S

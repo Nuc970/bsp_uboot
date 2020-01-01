@@ -1,0 +1,1 @@
+/home/book/NUC970_BSP/uboot/arch/arm/lib/_lshrdi3.S

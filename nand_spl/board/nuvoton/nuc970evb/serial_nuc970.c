@@ -1,0 +1,1 @@
+/home/book/NUC970_BSP/uboot/drivers/serial/serial_nuc970.c

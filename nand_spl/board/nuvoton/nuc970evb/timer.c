@@ -1,0 +1,1 @@
+/home/book/NUC970_BSP/uboot/board/nuvoton/nuc970evb/timer.c

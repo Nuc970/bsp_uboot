@@ -1,0 +1,1 @@
+/home/book/NUC970_BSP/uboot/drivers/watchdog/nuc970_wdt.c
